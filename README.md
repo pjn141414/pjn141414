@@ -3,8 +3,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/@1o7o1q" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/instagram.svg" alt="@1o7o1q" height="30" width="40" /></a>
-<a href="https://www.behance.net/https://www.behance.net/jina071049eb2d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/behance.svg" alt="https://www.behance.net/jina071049eb2d" height="30" width="40" /></a>
+<a href="https://instagram.com/1o7o1q" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/instagram.svg" alt="1o7o1q" height="30" width="40" /></a>
+<a href="https://www.behance.net/jina071049eb2d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/behance.svg" alt="jina071049eb2d" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
