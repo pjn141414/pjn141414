@@ -1,9 +1,12 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Park%20Jina\&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Back-end%20Developer%20👋🏻&descAlignY=51&descAlign=62)
 <p align='center'> ✈️　I'm trying to be a helpful developer for anyone, anytime, anywhere! </p> </br>
 
-<!-- Github stats & Top Language chart -->
-[![Jina's GitHub stats](https://github-readme-stats.vercel.app/api?username=pjn141414&show_icons=true&theme=dracula&count_private=true)](https://github.com/pjn141414/github-readme-stats)　
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pjn141414&layout=compact)](https://github.com/pjn141414/github-readme-stats) </br>
+<!-- Github stats -->
+<div id="main" align="center">
+    <img 
+        src="https://github-readme-stats.vercel.app/api?username=pjn141414&count_private=true&show_icons=true&theme=dracula"
+        style="height: auto; margin-left: 20px; margin-right: 20px; padding: 10px;"/>
+</div> </br>
 
 <!-- Tech Stack | html css js ts photoshop alierstrater java nodejs Mysql Reactjs typeORM vsc postman git github xd figma -->
 <h2 align=center> ✨ Tech Stack </h2>
