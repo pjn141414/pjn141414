@@ -45,9 +45,9 @@
 <h2 align=center> ⚡️ Contact ME! </h2>
 
 <div align="center">
-    <a href="mail-to: dev.jina0719@gmail.com" title="dev.jina0719@gmail.com">
+    <a href="mailto:dev.jina0719@gmail.com" title="dev.jina0719@gmail.com">
         <img 
-            src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&title=dev.jina0719@gmail.com"
+            src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&" title="dev.jina0719@gmail.com" 
             style="height: auto; margin-left: 20px; margin-right: 20px; padding: 10px;"/>
     </a>
    <a href="https://www.facebook.com/profile.php?id=100009144290129">
